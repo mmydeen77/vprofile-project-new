@@ -23,7 +23,5 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
-am checking the poll scm - continous download
-
-second
+cicd suyra test
 
